@@ -1,3 +1,5 @@
+
+
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
 :root{
     --grey:#292929;
@@ -54,8 +56,6 @@ header .nav-item{
    display: grid;
    grid-template-columns: repeat(auto-fit, minmax(150px, 3fr));
    grid-gap: 10px;
-
-   
 }
 img{
   width: 100%;
